@@ -91,12 +91,5 @@ public class MainController {
 
     }
 
-    public void onButtonAClick(){
-
-    }
-
-    public void onButtonBClick(){
-
-    }
 
 }
