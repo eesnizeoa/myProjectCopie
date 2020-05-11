@@ -31,5 +31,5 @@ Lorsque l'application s'ouvre, elle charge les données en cache puis affiche un
 </p>
 Lorsque l'on clique sur l'icone android d'un item, cela ouvre une nouvelle fenêtre qui charge le nom et l'url voulus.  
 <p align="center">
-<img src=myProjectCopy_Screen/Detail.PNG" width="200" height="350" />  
+<img src="myProjectCopy_Screen/Detail.PNG" width="200" height="350" />
 </p>  
