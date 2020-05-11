@@ -25,10 +25,11 @@ Cette application permet de visualiser une liste de pokemon. Cette liste est cha
   * [ ] Notifications Push ( Firebase ) 
   * [ ] Autres fonctionnalités (libre à vous, plus il y en a mieux c’est.)  
 ## Fonctionnalités  
-
+Lorsque l'application s'ouvre, elle charge les données en cache puis affiche une liste des éléments de l'api. Cette liste permet de voir le nom de l'élément en première ligne puis un url en deuxième ligne.
 <p align="center">
-<img src="myProjectCopy_Screen/Screen_List.PNG" width="200" height="350" />
-</p>  
+<img src="myProjectCopy_Screen/List.PNG" width="200" height="350" />  
+</p>
+Lorsque l'on clique sur l'icone android d'un item, cela ouvre une nouvelle fenêtre qui charge le nom et l'url voulus.  
 <p align="center">
-<img src=myProjectCopy_Screen/Screen_ListDetail.PNG" />  
+<img src=myProjectCopy_Screen/Detail.PNG" width="200" height="350" />  
 </p>  
