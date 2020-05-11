@@ -23,19 +23,12 @@ Cette application permet de visualiser une liste de pokemon. Cette liste est cha
   * [ ] TDD / TU
   * [ ] Coroutines ou Rxjava
   * [ ] Notifications Push ( Firebase ) 
-  * [ ] Autres fonctionnalités (libre à vous, plus il y en a mieux c’est.)
+  * [ ] Autres fonctionnalités (libre à vous, plus il y en a mieux c’est.)  
+## Fonctionnalités  
 
-## Fonctionnalités
- 
-<p align="center">   
-test
-</p>
 <p align="center">
 <img src="myProjectCopy_Screen/Screen_List.PNG" width="200" height="350" />
-</p>
+</p>  
 <p align="center">
-<img src="myProjectCopy_Screen/Screen_ListDetail.PNG" width="200" height="350" />
-</p>
-<p align="center">
-<img src="myProjectCopy_Screen/Screen_ListDetail.PNG" width="200" height="350" />
-</p>
+<img src=myProjectCopy_Screen/Screen_ListDetail.PNG" />  
+</p>  
